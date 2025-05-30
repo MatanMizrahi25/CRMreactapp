@@ -10,12 +10,14 @@ This project was created as part of a technical assignment for a CRM Engineer ro
 ## 🚀 How to Run
 
 ### 1. Clone the repository
+
 ```bash
-git clone https://github.com/MatanMizrahi25/crm-client-api.git
-cd crm-client-api
+git clone https://github.com/MatanMizrahi25/CRMreactapp.git
+cd CRMreactapp
 ```
 
 ### 2. Start the API (server)
+
 ```bash
 cd API
 npm install
@@ -27,6 +29,7 @@ Server will run on: `http://localhost:3001`
 ---
 
 ### 3. Start the React App (client)
+
 In a separate terminal:
 
 ```bash
